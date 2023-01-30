@@ -34,3 +34,5 @@ elif (comp_move == rock and player_move == paper) or (comp_move == paper and pla
     print("You Win!")
 else:
     print("You Lose!")
+
+input(">>>   Press Enter to Exit   <<<")
